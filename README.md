@@ -1,7 +1,7 @@
 ## 🍷 Australian Wine Dashboard Insight
 
 🔗 View Interactive Tableau Dashboard:
-PASTE YOUR TABLEAU PUBLIC LINK HERE
+(https://public.tableau.com/app/profile/laxmi.sharma4913/viz/Book1_17602645548550/AustralianWineDashboardInsight)
 
 📌 Project Overview:
 This Tableau dashboard provides insights into Australian wine sales performance across states, customer retention trends, revenue by wine segment, and freight cost analysis.
