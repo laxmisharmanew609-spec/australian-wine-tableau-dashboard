@@ -18,6 +18,5 @@ This Tableau dashboard provides insights into Australian wine sales performance 
 - Excel
 - Data Visualization
 
-📷 Dashboard Preview:
-(Add screenshot here)
+
 
